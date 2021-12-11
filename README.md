@@ -3,7 +3,7 @@
 I am based out of Bangalore, India and currently working at AWS EMR Container platforms [EMR on EKS](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html). 
 
 
-- 📄 More about my professional experinec on [linkedin@rahul-goyal](https://www.linkedin.com/in/rahul-goyal-40168621/)
+- 📄 More about my professional experience on [linkedin@rahul-goyal](https://www.linkedin.com/in/rahul-goyal-40168621/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In my free time, I love spending time with my son, reading books, blogs and if any enegry/ time left watching series.
 
