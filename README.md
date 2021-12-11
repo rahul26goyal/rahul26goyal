@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rahul Goyal!</h1>
+
+I am based out of Bangalore, India and currently working at AWS EMR Container platforms [EMR on EKS](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html). 
+
+
+
+
 
 <!--
 **rahul26goyal/rahul26goyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
